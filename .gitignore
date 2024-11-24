@@ -31,6 +31,9 @@
 *.out
 *.app
 
+#Debugger
+*.dSYM
+
 # Misc
 intro
 intro.dSYM/Contents/Info.plist
