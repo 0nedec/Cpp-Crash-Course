@@ -30,5 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Misc
 intro
 intro.dSYM/Contents/Info.plist
+.secret
